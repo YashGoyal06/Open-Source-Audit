@@ -1,7 +1,7 @@
 # The Open Source Audit: Git
 
 **Course:** Open Source Software (NGMC) | VIT Bhopal University | AY 2025-26  
-**Student:** Azhaan Ali Siddiqui | Registration No. 24BAI10100 
+**Student:** Yash Goyal | Registration No. 24BAI10100 
 **Email:** yash.24bai10100@vitbhopal.ac.in  
 **License:** GNU General Public License v2.0  
 **Submission Date:** 26th March 2026  
